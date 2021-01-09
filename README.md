@@ -1,5 +1,5 @@
 # HyperBlog by Platzi 💚
-Un blog del [Curso Profesional de Git y Github](http://https://platzi.com/clases/git-github/ "curso profesional de git y github") de [Platzi](https://platzi.com/home)
+Un blog del [Curso Profesional de Git y Github](https://platzi.com/clases/git-github/ "curso profesional de git y github") de [Platzi](https://platzi.com/home)
 
 > El curso de Git y Github de Platzi es lo que me hacía falta para cuatruplicar mi salario y lanzame a la industria de la producción de datos sinteticos basados en Data Science
 > - hellboy
